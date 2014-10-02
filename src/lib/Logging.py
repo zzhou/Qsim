@@ -22,7 +22,6 @@ import time
 import Queue
 import traceback
 
-import Cobalt.JSONEncoders
 import Cobalt.Proxy
 from Cobalt.Exceptions import ComponentLookupError
 
